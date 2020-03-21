@@ -246,3 +246,22 @@ div[id="leftfooter"] {text-align:center; margin-bottom:5px}
 	-webkit-transform:rotate(270deg); -moz-transform:rotate(270deg); transform:rotate(270deg);
 	-ms-transform:rotate(270deg); -o-transform:rotate(270deg);
 }
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cb/Cassiopeia_A_Spitzer_Crop.jpg");
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+<p>This page has an image as the background!</p>
+
+</body>
+</html>
+
