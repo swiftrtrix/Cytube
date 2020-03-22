@@ -5,6 +5,7 @@
 
 body {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cb/Cassiopeia_A_Spitzer_Crop.jpg");
+	overflow-x:hidden
 }
 
 	/* -- buttons -- */
